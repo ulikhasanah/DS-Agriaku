@@ -1,2 +1,2 @@
 # DS-Agriaku
-QCM Sensor Classification model.
+QCM Sensor Classification model menggunakan Random Forest Classifier dan ANN.
